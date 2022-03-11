@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZJStrinic
 - 👀 I’m interested in Frontend Developing.
-- 🌱 I’m currently learning HTML,CSS,JavaScript.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on any frontend project.
 - 📫 How to reach me: zjstrinic@gmail.com
 
 <!---
