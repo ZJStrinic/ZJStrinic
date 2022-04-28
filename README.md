@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZJStrinic
-- 👀 I’m interested in Frontend Developing.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to work on any frontend project.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Ruby on Rails.
+- 💞️ I’m looking to work on any project.
 - 📫 How to reach me: zjstrinic@gmail.com
 
 <!---
